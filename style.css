@@ -214,6 +214,12 @@ header .logo
   font-size: 30px;
   opacity: 50em;
 }
+.img1 img{
+  width: 100%;
+  height: 100vh;
+  font-size: 30px;
+
+}
 
 .San img{
   color: mintcream;
@@ -223,6 +229,10 @@ header .logo
   height: 100vh;
   font-size: 30px;
 
+}
+.col {
+  color: whitesmoke;
+  
 }
 
 
